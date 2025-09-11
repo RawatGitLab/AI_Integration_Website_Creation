@@ -1,0 +1,14 @@
+
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global body styles */
+body {
+  /*@apply bg-black text-white;*/
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+} 
+
